@@ -4,7 +4,6 @@ dataset_part_2.csv
 dataset_part_3.csv
 DB2-instructional-labs.md.html
 ds-capstone-template-coursera.pptx
-spacex_dash_app.py
 spacex_launch_dash.csv
 spacex_launch_geo (1).csv
 spacex_launch_geo (2).csv
@@ -21,3 +20,4 @@ jupyter-labs-eda-sql-coursera (clean).ipynb
 jupyter-labs-eda-dataviz (clean).ipynb
 lab_jupyter_launch_site_location (clean).ipynb
 SpaceX_Machine Learning Prediction_Part_5 (clean).ipynb
+lab_theia_plotly_dash.md.html
